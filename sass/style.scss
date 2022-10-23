@@ -453,6 +453,11 @@ h1, h2, h3, h4, h5, h6, figure {
 			letter-spacing: 2px;
 			font-weight: 600;
 		}
+		a{
+			img {
+				width: 100%;
+			}
+		}
 	}
 	.overlay {
 		position: absolute;
@@ -1301,6 +1306,9 @@ form {
 		letter-spacing: 2px;
 		font-weight: 600;
 		color: rgba($brand-black,.4);
+	}
+	.fh5co-heading-img {
+		width: 100% !important;
 	}
 }
 

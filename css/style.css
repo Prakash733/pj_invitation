@@ -1330,6 +1330,11 @@ form label {
   color: #113468;
   font-family: "Dancing Script", Arial, serif;
 }
+.fh5co-heading a>img {
+  width: 100%;
+  margin-top: 7rem;
+  margin-bottom: 7rem;
+}
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
     font-size: 40px;
